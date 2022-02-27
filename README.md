@@ -26,7 +26,7 @@ thus far:
 
 001 : 6 x 40106 oscs.
 
-the most basic oscillator, more or less pulled straight from the datasheet examples. you get 6 from one chip. extra kludge space holes on these.
+the most basic oscillator, more or less pulled straight from the datasheet examples. you get 6 from one chip. extra kludge space holes on these. i'll bet you know what these are, and that your thumbs are happy to get a break.
 
 002 : 6 x 4069 buffers.
 
