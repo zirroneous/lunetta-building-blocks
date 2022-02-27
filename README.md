@@ -16,7 +16,7 @@ that should keep you occupied for a minute.
 
 THE BOARDS
 
-the boards comprise "shorthands" for circuits a lunetta builder often finds themselves repeating by hand for various reasons. little shortcut boards that setup the skeletal support circuitry, making it a tiny bit quicker to get to the fun experimentation part of the process. proto-macros or something. i don't know.
+the boards comprise "shorthands" for circuits which a lunetta builder often finds themselves having to do often for various reasons. little shortcut boards that setup the skeletal support circuitry, making it a tiny bit quicker to get to the fun experimentation part of the process. proto-macros or something. i don't know. not quite modules, but ingredients for them.
 
 the designs are done in EasyEDA, by a n00b, and should be considered unverified beta. be nice.
 
