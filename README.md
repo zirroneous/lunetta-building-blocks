@@ -1,10 +1,12 @@
 # lunetta-building-blocks
 
-these little "stanley boards" are some of the basic fundamental circuits that make up lunetta synthesizers.
+these little "stanley boards" are some of the basic fundamental circuits that make up "lunettas," experimental digital synthesizers, conceptually introduced in the 80's and 90's by stanley lunetta.
 
-the designs are a means by which i'm teaching myself easyEDA, and for the moment there are only the gerber files. i'll flesh this out as the project progresses.
+the boards comprise "shorthands" for circuits a lunetta builder often finds themselves repeating by hand for various designs. little shortcut boards that setup the skeletal support circuitry, making it a tiny bit quicker to get to the fun experimentation part of the process. proto-macros or something. i don't know.
 
-the first batch of boards is presently in my posession, troubleshooting underway.
+the designs are done in EasyEDA, by a n00b, and should be considered unverified beta. be nice.
+
+the first batch of boards is presently in my posession, troubleshooting underway!!
 
 thus far: 
 
@@ -50,6 +52,6 @@ works with several quad 2-input gate chips. "iio" means what you think it means.
 
 010 : ms20esque single supply sallen-key hp/lp vcf.
 
-this is jacked from a schematic by tim escobedo. the footprints for panel components should be rear-mounted. (i think.)
+this one is jacked from a schematic by tim escobedo. the footprints for panel components should be rear-mounted. (i think.)
 
 <3, molg.
