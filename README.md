@@ -2,7 +2,7 @@
 
 these little "stanley boards" are some of the basic fundamental circuits that make up "lunettas," experimental digital synthesizers, conceptually introduced in the 80's and 90's by stanley lunetta.
 
-the boards comprise "shorthands" for circuits a lunetta builder often finds themselves repeating by hand for various designs. little shortcut boards that setup the skeletal support circuitry, making it a tiny bit quicker to get to the fun experimentation part of the process. proto-macros or something. i don't know.
+the boards comprise "shorthands" for circuits a lunetta builder often finds themselves repeating by hand for various reasons. little shortcut boards that setup the skeletal support circuitry, making it a tiny bit quicker to get to the fun experimentation part of the process. proto-macros or something. i don't know.
 
 the designs are done in EasyEDA, by a n00b, and should be considered unverified beta. be nice.
 
