@@ -32,6 +32,8 @@ baby seq's, top octaves, harmonic divisions. hooray!
 
 wired as a basic pulse divider. i dunno what else to say. bare bones af. you'll wanna add your support circuitry.
 
+it's 4040, not 420. (you can't smoke weed with this. i don't think.)
+
 007 : 7809 9v single-sided regulated power supply
 
 i'll probably make this a little happier, later on, but this works fine.
