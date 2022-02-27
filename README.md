@@ -48,7 +48,6 @@ works with several quad 2-input gate chips. "iio" means what you think it means.
 
 010 : ms20esque single supply sallen-key hp/lp vcf.
 
-this is jacked from a schematic by tim escobedo. the potentiometers and dpdt, if pcb-mounted, should be rear-mounted. 
-(i may actually have several footprints all ass-backward. needs troubleshooting. tread patiently.)
+this is jacked from a schematic by tim escobedo. the footprints for panel components should be rear-mounted. (i think.)
 
 <3, molg.
