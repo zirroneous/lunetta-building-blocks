@@ -6,7 +6,7 @@ these little "stanley boards" are some of the basic fundamental circuits that ma
 
 i'll be fleshing out with pertinent historical data, and due credit and regard, as time passes.
 
-to start, why not go to the roots? here is the lunetta forum on electro-music, where i first learned of this rich and storied strange fucking hobby (FORUM160 FOR LYFE):
+to start, why not go to the roots? here is the lunetta forum on electro-music, where i first learned of this rich and storied strange fucking hobby. forum 160 has the goods. :
 
 https://electro-music.com/forum/forum-160.html
 
