@@ -1,12 +1,12 @@
 # lunetta-building-blocks
 
-these little "stanley boards" are some of the basic fundamental circuits that make up "lunettas," experimental digital synthesizers, conceptually introduced in the 80's and 90's by stanley lunetta.
+these little **"stanley boards"** are some of the basic fundamental circuits that make up "lunettas," experimental digital synthesizers, conceptually introduced in the 80's and 90's by **stanley lunetta.**
 
 ===
 
 i'll be fleshing out with pertinent historical data, and due credit and regard, as time passes.
 
-to start, why not go to the roots? here is the lunetta forum on electro-music, where i first learned of this rich and storied strange fucking hobby. forum 160 has the goods. :
+to start, why not go to the roots? here is the lunetta forum on electro-music, where i first learned of this rich and storied strange fucking hobby. **forum 160 has the goods.** :
 
 https://electro-music.com/forum/forum-160.html
 
@@ -18,7 +18,7 @@ that should keep you occupied for a minute.
 
 the boards comprise "shorthands" for circuits which a lunetta builder often finds themselves having to do often for various reasons. little shortcut boards that setup the skeletal support circuitry, making it a tiny bit quicker to get to the fun experimentation part of the process. proto-macros or something. i don't know. not quite modules, but ingredients for them.
 
-the designs are done in EasyEDA, by a n00b, and should be considered unverified beta. be nice.
+the designs are done in EasyEDA, by a **n00b**, and should be considered **unverified beta**. be nice.
 
 the first batch of boards is presently in my posession, troubleshooting underway!!
 
