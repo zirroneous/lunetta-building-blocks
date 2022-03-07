@@ -23,6 +23,7 @@ lunetta circuits, as it goes, are generally simple and low-part count themselves
 
 the supply is, generally speaking, a single-sided supply between 9 and 12vdc. this is within the tolerance of the CD4000 series of chips. as a rule, **negative voltages do not play nice with lunettas**, because the inputs are expecting a binary digital signal fluctuating between gnd (logic 0) and supply voltage (logic 1).
 
+that's basically the major rule, don't blow your chips up. protect your inputs and outputs. beyond that, and a few other general guidelines, the tendency is toward the experimental and expressive. often, the resulting instrument is playable and intuitive to its respective builder, but abstract and difficult to comprehend to everyone else. this is the nature of the realm of lunettas, as it is in some ways a game one plays with themselves.
 
 ## THE BOARDS
 
