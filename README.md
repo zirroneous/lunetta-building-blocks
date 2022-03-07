@@ -13,16 +13,20 @@ his name for them was "**moosack machines**," and they were built into sonic scu
 http://moosack.net/stang/me.html
 http://moosack.net/stang/sculpts.html
 
-he informally taught some of his students at the university, who carried the work forward, naming the circuits "**lunettas**," which were revived in the **synthdiy** section of the forums on electro-music.com in the late 'aughts : 
+he informally taught some of his students at the university, who carried the work forward, naming the circuits "**lunettas**," which were [revived](https://electro-music.com/forum/topic-23850.html) in the **synthdiy** section of the forums on electro-music.com in the late 'aughts : 
 
 https://electro-music.com/forum/forum-160.html
 
 to start, why not go to the roots? **forum 160 has the goods.** i recommend starting with the pinned threads. that should keep you occupied for a minute. i imagine there's more on morphwoggler.
 
+lunetta circuits, as it goes, are generally simple and low-part count themselves, with some only requiring running jacks to the panel from the i/o pins of a chip. others are more involved, combining several of the concepts together, going wild with the boolean expressions, introducing linear functions via transistors and opamps, etc. the supply is, generally speaking, a single-sided supply between 9 and 12vdc. this is within the tolerance of the CD4000 series of chips. as a rule **negative voltages do not play nice with lunettas**, because the inputs are expecting a binary digital signal fluctuating between gnd (logic 0) and supply voltage (logic 1).
+
 
 ## THE BOARDS
 
-the boards comprise "shorthands" for circuits which a lunetta builder often finds themselves having to do often for various reasons. little shortcut boards that setup the skeletal support circuitry, making it a tiny bit quicker to get to the fun experimentation part of the process. proto-macros or something. i don't know. not quite modules, but ingredients for them.
+the boards comprise "shorthands" for circuits which a lunetta builder often finds themselves having to do often for various reasons. little shortcut boards that setup the skeletal support circuitry, making it a tiny bit quicker to get to the fun experimentation part of the process. proto-macros or something. i don't know. not quite modules, but ingredients for them. 
+
+lunettas circuits, as it goes, are generally simple and low-part count themselves, with some only requiring running jacks to the panel from the i/o pins of a chip. others are more involved, combining several of the concepts together, going wild with the boolean expressions, introducing linear functions via transistors and opamps, etc.
 
 the designs are done in EasyEDA, by a **n00b**, and should be considered **unverified beta**. be nice.
 
