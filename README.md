@@ -2,6 +2,8 @@
 
 these little **"stanley boards"** are some of the basic fundamental circuits that make up "lunettas," experimental digital synthesizers, which are centered around the CD4000 series of CMOS logic chips.
 
+## LUNETTAS
+
 conceptually introduced in the late 1960's by **Stanley Lunetta**, of sacramento, ca. (accomplished percussionist and avante-garde musician, performance artist, and music instructor at UC Davis and Chico.) 
 
 ![sTANg portrait](https://github.com/zirroneous/lunetta-building-blocks/blob/main/sTANg3.jpg)
