@@ -1,18 +1,24 @@
 # lunetta-building-blocks
 
-these little **"stanley boards"** are some of the basic fundamental circuits that make up "lunettas," experimental digital synthesizers, conceptually introduced in the 80's and 90's by **stanley lunetta.**
+these little **"stanley boards"** are some of the basic fundamental circuits that make up "lunettas," experimental digital synthesizers, which are centered around the CD4000 series of CMOS logic chips.
 
-===
+conceptually introduced in the late 1960's by **Stanley Lunetta**, of sacramento, ca. (accomplished percussionist and avante-garde musician, performance artist, and music instructor at UC Davis and Chico.) 
 
-i'll be fleshing out with pertinent historical data, and due credit and regard, as time passes.
+![sTANg portrait](https://github.com/zirroneous/lunetta-building-blocks/blob/main/sTANg3.jpg)
 
-to start, why not go to the roots? here is the lunetta forum on electro-music, where i first learned of this rich and storied strange fucking hobby. **forum 160 has the goods.** :
+his name for them was "**moosack machines**," and they were built into sonic sculptures, often glued in place within the sculpture (or as a prominent feature of the sculpture,) and wired point to point.
+
+![sound sculpture photo](https://github.com/zirroneous/lunetta-building-blocks/blob/main/soundsculptures.gif)
+
+http://moosack.net/stang/me.html
+http://moosack.net/stang/sculpts.html
+
+he informally taught some of his students at the university, who carried the work forward, naming the circuits "**lunettas**," which were revived in the **synthdiy** section of the forums on electro-music.com in the late 'aughts : 
 
 https://electro-music.com/forum/forum-160.html
 
-that should keep you occupied for a minute.
+to start, why not go to the roots? **forum 160 has the goods.** i recommend starting with the pinned threads. that should keep you occupied for a minute. i imagine there's more on morphwoggler.
 
-===
 
 ## THE BOARDS
 
