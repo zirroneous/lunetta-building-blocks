@@ -19,7 +19,9 @@ https://electro-music.com/forum/forum-160.html
 
 to start, why not go to the roots? **forum 160 has the goods.** i recommend starting with the pinned threads. that should keep you occupied for a minute. i imagine there's more on morphwoggler.
 
-lunetta circuits, as it goes, are generally simple and low-part count themselves, with some only requiring running jacks to the panel from the i/o pins of a chip. others are more involved, combining several of the concepts together, going wild with the boolean expressions, introducing linear functions via transistors and opamps, etc. the supply is, generally speaking, a single-sided supply between 9 and 12vdc. this is within the tolerance of the CD4000 series of chips. as a rule **negative voltages do not play nice with lunettas**, because the inputs are expecting a binary digital signal fluctuating between gnd (logic 0) and supply voltage (logic 1).
+lunetta circuits, as it goes, are generally simple and low-part count themselves, with some only requiring running jacks to the panel from the i/o pins of a chip. others are more involved, combining several of the concepts together, going wild with the boolean expressions, introducing linear functions via transistors and opamps, etc. 
+
+the supply is, generally speaking, a single-sided supply between 9 and 12vdc. this is within the tolerance of the CD4000 series of chips. as a rule, **negative voltages do not play nice with lunettas**, because the inputs are expecting a binary digital signal fluctuating between gnd (logic 0) and supply voltage (logic 1).
 
 
 ## THE BOARDS
