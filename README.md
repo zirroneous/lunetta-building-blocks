@@ -6,11 +6,11 @@ these little **"stanley boards"** are some of the basic fundamental circuits tha
 
 conceptually introduced in the late 1960's by **Stanley Lunetta**, of sacramento, ca. (accomplished percussionist and avante-garde musician, performance artist, and music instructor at UC Davis and Chico.) 
 
-![sTANg portrait](https://github.com/zirroneous/lunetta-building-blocks/blob/main/sTANg3.jpg)
+![sTANg portrait](https://github.com/zirroneous/lunetta-building-blocks/blob/main/sTANg3.jpg) 
+
+![sound sculpture photo](soundsculptures.gif)
 
 his name for them was "**moosack machines**," and they were built into sonic sculptures, often glued in place within the sculpture (or as a prominent feature of the sculpture,) and wired point to point.
-
-![sound sculpture photo](https://github.com/zirroneous/lunetta-building-blocks/blob/main/soundsculptures.gif)
 
 http://moosack.net/stang/me.html
 http://moosack.net/stang/sculpts.html
@@ -28,6 +28,8 @@ the supply is, generally speaking, a single-sided supply between 9 and 12vdc. th
 that's basically the major rule, don't blow your chips up. protect your inputs and outputs. beyond that, and a few other general guidelines, the tendency is toward the experimental and expressive. often, the resulting instrument is playable and intuitive to its respective builder, but abstract and difficult to comprehend to everyone else. this is the nature of the realm of lunettas, as it is in some ways a game one plays with themselves.
 
 ## THE BOARDS
+
+![boards photo 02](stanleys02.jpeg)
 
 the boards comprise "shorthands" for circuits which a lunetta builder often finds themselves having to do often for various reasons. little shortcut boards that setup the skeletal support circuitry, making it a tiny bit quicker to get to the fun experimentation part of the process. proto-macros or something. i don't know. not quite modules, but ingredients for them. 
 
